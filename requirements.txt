@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic[email]
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+pytest
+pytest-asyncio
